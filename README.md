@@ -10,4 +10,7 @@ Text_Classification(3): Dimensionality Reduction Plots\
 Text_Classification(4): Model Interpretation\
 Text_Classification(5): Sample Articles
 
-Dataset:http://mlg.ucd.ie/datasets/bbc.html
+Dataset:http://mlg.ucd.ie/datasets/bbc.html \
+It consists of 2.225 documents from the BBC news website corresponding to stories in five topical areas from 2004 to 2005.\
+The download file contains five folders (one for each category). Each folder has a single .txt file for every news article. These files include the news articles body in raw text.
+Ready made raw dataset is created combining the 5 text files and stored in Text_Classification/Pickles/News_dataset.pickle
