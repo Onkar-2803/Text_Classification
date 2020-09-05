@@ -5,7 +5,7 @@ Text classification also known as text tagging or text categorization is the pro
 In the given code we will classify news articles in 5 categories namely Business, Entertainment, Politics, Sport & Technical.
 
 Text_Classification(1): Feature Engineering\
-Text_Classification(2): Model Training using Support Vector Machine.
-Text_Classification(3): Dimensionality Reduction Plots
-Text_Classification(4): Model Interpretation
+Text_Classification(2): Model Training using Support Vector Machine.\
+Text_Classification(3): Dimensionality Reduction Plots\
+Text_Classification(4): Model Interpretation\
 Text_Classification(5): Sample Articles
